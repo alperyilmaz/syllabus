@@ -1,4 +1,4 @@
-# syllabus
+# Syllabus with LaTeX and Markdown
 
 ## Credits:
 
