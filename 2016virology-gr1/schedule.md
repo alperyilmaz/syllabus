@@ -48,7 +48,7 @@ Ders kitabının *Chapter 15* kısmı.
 
 Ders kitabının *Chapter 16* kısmı.
 
-### 3 Mayıs. Retroviruses (devam) & HIV
+### 3 Mayıs. Retrovirüsler (devam) & HIV
 
 Ders kitabının *Chapter 16* ve *Chapter 17* kısımları.
 
