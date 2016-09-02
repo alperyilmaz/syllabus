@@ -1,0 +1,5 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'syllabus.blg'
+[56] biber:275> INFO - === Thu Mar  3, 2016, 16:50:38
+[56] Biber.pm:333> INFO - Reading 'syllabus.bcf'
+[94] Utils.pm:169> WARN - No data sources defined!
