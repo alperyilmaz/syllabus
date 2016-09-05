@@ -1,59 +1,41 @@
 # Schedule
 
-Below is the tentative schedule for the course. Depending on the speed we go through topics there might be shifts in the schedule. For each week, first date is for Group 2 and second date is for Group 1.
+Below is the tentative schedule for the course. Depending on the speed we go through topics there might be shifts in the schedule. For each week, first date is for Group 1 (Wednesdays) and second date is for Group 2 (Fridays).
 
-### February 17/18. Introduction
+### September 21/23. Introduction
 
-Introduction to cloning strategies.
+The instructor will demonstrate the power of Linux command line and point out fundamental differences between Linux OS and Windows OS.
 
-### February 24/25. Cloning (cont'd) and cDNA libraries
+### September 21/23. Thinks to consider
 
-### March 2/3. Viral Vectors
+You'll learn about important concepts that will prevent you from being stuck while learning basics of command line.
 
-Since we learned cloning strategies, let's build a viral vector
+### September 28/30. 
 
-### March 9/10. Lentiviral vectors
+### October 5/7.
 
-Special type of viral vectors using Retrovirus genomes
+### October 12/14.
 
-### March 16/17. Knock-out mice
+### October 19/21.
 
-How to delete or insert regions from or into genome in whole organism
+### October 26/28.
 
-### March 23/24. In vitro Mutagenesis
+### November 2/4.
 
-Random or targeted mutations in DNA with a purpose
+### (November 9/11). Midterm
 
-### March 30/31. Transgenic Applications
+### November 16/18.
 
-In various model organisms
+### November 23/25.
 
-### April 6/7. Transgenic Applications / Transgenic Animal Classification
+### November 30/December 2.
 
-Cont'd from previous week and their classification according to use cases
+### December 7/9.
 
-### (April 13/14). Midterm
+### December 14/16.
 
-### April 20/21. Transgenic Applications in Agriculture 
+### December 21/23.
 
-How to generate transgenic plants and the golden rice story
+Evaluation of Github contributions. Make up quiz.
 
-### April 27/28. Advanced Vectors for Transgenic Plant Production
-
-Replacing antibiotic resistance gene and non-plant sequences from vectors
-
-### May 4/5. GMO testing
-
-How to determine if a product is transgenic or not
-
-### May 11/12. Debate
-
-Let's see advantages and disadvantages of GMO products
-
-### May 18/19. Topic for Group2 / Holiday for Group1
-
-TBD
-
-### May 25/26. Bioengineering Meeting For Group2 / Topic for Group1
-
-TBD
+### December 28/30.
