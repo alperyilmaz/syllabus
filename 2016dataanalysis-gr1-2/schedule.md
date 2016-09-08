@@ -10,7 +10,7 @@ The instructor will demonstrate the power of Linux command line and point out fu
 
 You'll learn about important concepts that will prevent you from being stuck while learning basics of command line. Also, you'll learn commands to navigate (change directories) and manipulate (create, copy, move and delete file/folders) the file system.
 
-Assignment for next week: Let's familirize ourselves with GitHub platform. Please make *useful* edits via GitHub for the book chapter 1 - Linux Operating System due **NEXT WEEK**
+Assignment for next week: Let's familiarize ourselves with GitHub platform. Please make *useful* edits via GitHub for the book chapter 1 - Linux Operating System due **NEXT WEEK**
 
 ### *October 5/7*. Viewing files
 
@@ -30,7 +30,7 @@ Generating sequence of numbers even in shuffled form is possible with *seq* and 
 
 ### *October 19/21*. Working with two inputs, whether it's a list or a file
 
-*comm* can find intersection (or other set operations) between to sets (aka lists) and *join* can merge to different files by using a common column. *paste* perfoms simple merge (side by side)
+*comm* can find intersection (or other set operations) between to sets (aka lists) and *join* can merge to different files by using a common column. *paste* performs simple merge (side by side)
 
 *Assignment:* Code Academy - Learn Command Line - Unit 3 is **DUE** this week
 
@@ -66,7 +66,7 @@ Let's understand the concept of *schema* and see that we have to strictly follow
 
 ### *December 7/9*. Querying tables
 
-Creating a table and insterting data into a table was cumbersome, after that it's payback time. SQL is robust in querying tables. Filtering and sorting in SQL are like a breeze. *Aggregate* functions adds even more power into queries
+Creating a table and inserting data into a table was cumbersome, after that it's payback time. SQL is robust in querying tables. Filtering and sorting in SQL are like a breeze. *Aggregate* functions adds even more power into queries
  
 *Assignment:* Code Academy - Learn SQL - Unit 1 is **DUE** this week
 
