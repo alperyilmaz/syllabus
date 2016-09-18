@@ -1,3 +1,3 @@
-# Syllabus for Virology Gr.1 - Spring 2016
+# Genetik Kavramlar Gr.1 - Güz 2016 Ders Planı
 
-Please refer to parent folder README.md for details regarding syllabus framework
+Bir üst klasördeki README.md dosyasında ders planı yapısı hakkında bilgi edinilebilir.
