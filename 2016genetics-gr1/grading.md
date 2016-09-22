@@ -6,6 +6,8 @@ Ders notları fakülte karşısındaki fotokopi merkezinde basılı olarak, [YAR
 
 Ders notlarında maalesef çok resim ve az yazı bulunmaktadır. O yüzden dersi dinleyip not almanız gerekmektedir.
 
+Ders notlarına ek olarak, sirke sineği çaprazlamalarını simüle eden [Classical Genetics Simulator](http://cgslab.com/) adlı websayfasını kullanarak interaktif olarak bazı kavramları anlamaya çalışacağız.
+
 \pagebreak
 
 # Notlandırma
