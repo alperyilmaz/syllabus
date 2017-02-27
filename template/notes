@@ -1,1 +1,5 @@
-# TODO grading list should not be divided between two pages - LaTeX should have a solution for that
+# Notes
+
+* TODO grading list should not be divided between two pages - LaTeX should have a solution for that
+* Since **annotated** tags are not pulled or pushed, we need to explicitiy tell git to carry them over
+   * git push origin --tags
