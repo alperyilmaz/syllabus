@@ -1,0 +1,58 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+color
+center
+Mendelian
+extranuclear
+epigenetics
+ - goals.md
+Mendelian
+ - grading.md
+4
+2012
+Eberhard
+Passarge
+3
+2007
+YARBIS
+pagebreak
+35
+40
+10
+5
+2
+1-2
+R.J.
+Brooker
+1
+ - schedule.md
+1
+2
+19
+22
+26
+29
+3
+6
+10
+13
+4
+17
+20
+24
+27
+5
+31
+7
+14
+9
+8
+21
+18
+28
+con't
+12
+15
