@@ -4,7 +4,7 @@ Course textbook(s) are *Virology: Principles and Applications* by John Carter an
 
 Lecture notes are handed in copy center across our department. PDF versions of lecture slides can be downloaded from [YARBIS page](http://yarbis.yildiz.edu.tr/alyilmaz/course/viewCourse/id/6378).
 
-Lecture notes contain more pics with sparse text, thus you need to listen the instructor and take notes.
+Lecture notes contain mostly pics with sparse text, thus you need to listen the instructor and take notes.
 
 # Grading
 
