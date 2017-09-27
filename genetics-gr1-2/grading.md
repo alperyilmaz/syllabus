@@ -2,7 +2,7 @@
 
 Most of lecture notes are taken from the following textbook: **Genetics : A Conceptual Approach** *(Benjamin A. Pierce, 4. Edition, 2012)*. In addition, occasionally we'll be referring to **Genetic Analysis & Principles** *(R.J. Brooker, 3. Edition, 2007)* as supplementary source.
 
-Lecture notes are handed in copy center across our department. PDF versions of lecture slides can be downloaded from [YARBIS page](http://yarbis.yildiz.edu.tr/alyilmaz/course/viewCourse/id/7110).
+Lecture notes are handed in copy center across our department. PDF versions of lecture slides can be downloaded from [YARBIS page](http://yarbis1.yildiz.edu.tr/alyilmaz/course/viewCourse/id/7110).
 
 Lecture notes contain mostly pics with sparse text, thus you need to listen the instructor and take notes.
 
