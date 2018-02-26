@@ -2,27 +2,29 @@
 
 Course textbook(s) are *Virology: Principles and Applications* by John Carter and Venetia Saunders (2007). In addition we might refer to another book, *Fundamentals of Molecular Virology* by Nicholas Acheson (2011). 
 
-Lecture notes are handed in copy center across our department. PDF versions of lecture slides can be downloaded from [YARBIS page](http://yarbis.yildiz.edu.tr/alyilmaz/course/viewCourse/id/6378).
+Lecture notes are handed in copy center across our department. PDF versions of lecture slides can be downloaded from [AVESIS page](http://avesis.yildiz.edu.tr/alyilmaz/dokumanlar).
 
 Lecture notes contain mostly pics with sparse text, thus you need to listen the instructor and take notes.
+
+![Please read the syllabus](phd051013small.png)
 
 # Grading
 
 Your grade will come from the following sources:
 
-* Midterm: 35%
-* Final: 35%
-* Quiz: 15%
+* Midterm: 40%
+* Final: 40%
+* Quiz: 0%
 * Assignment: 10%
-* Attendance: 5%
+* Attendance: 10%
 
-There will be 4 quizes and 3 highest scores will be considered. If you attend all lectures or miss only one lecture then you'll get 5 points. For every 1-2 lectures missed you'll lose 1 point.
+There will be 4 quizes and 3 highest scores will be considered. If you attend all lectures or miss only one lecture then you'll get 5 points. For every 1-2 lectures missed you'll lose 1 point. **Note:** due to overcrowded classroom, there won't be any quizzes this year.
 
-Final exam will cover topics discussed after Midterm exam.
+**Final exam will cover topics discussed after Midterm exam.**
 
 Number and content of assignments will be provided later. The assignments will be related to "applications of a given virus to bioengineering problems".
 
-Midterm and Final results are announced at "YARBIS Announcements" page, if you think there's mistake or problem with your score please contact the instructor in order to go over your exam results. At the end of the semester, all your exam scores and total score will be published along with letter ranges. If your total score is very close to boundary please contact the instructor and he would try to help in that matter.
+Midterm and Final results are announced at "AVESIS Announcements" page, if you think there's mistake or problem with your score please contact the instructor in order to go over your exam results. At the end of the semester, all your exam scores and total score will be published along with letter ranges. If your total score is very close to boundary please contact the instructor and he would try to help in that matter.
 
 # Communication
 
