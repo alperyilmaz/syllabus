@@ -2,25 +2,25 @@
 
 There's no set textbook for this course. Students are expected to follow the lecture through handouts.
 
-Lecture notes are handed in copy center across our department. PDF versions of lecture slides can be downloaded from [YARBIS page](http://yarbis.yildiz.edu.tr/alyilmaz/course/viewCourse/id/6399).
+Lecture notes are handed in copy center across our department. PDF versions of lecture slides can be downloaded from [AVESIS page](http://avesis.yildiz.edu.tr/alyilmaz/dokumanlar).
 
 Lecture notes contain mostly pics with sparse text, thus you need to listen the instructor and take notes.
 
 # Grading
 
-Midterm and Final results are announced at "YARBIS Announcements" page, if you think there's mistake or problem with your score please contact the instructor in order to go over your exam results. At the end of the semester, all your exam scores and total score will be published along with letter ranges. If your total score is very close to boundary please contact the instructor and he would try to help in that matter.
+Midterm and Final results are announced at "AVESIS Announcements" page, if you think there's mistake or problem with your score please contact the instructor in order to go over your exam results. At the end of the semester, all your exam scores and total score will be published along with letter ranges. If your total score is very close to boundary please contact the instructor and he would try to help in that matter.
 
 Your grade will come from the following sources:
 
-* Midterm: 35%
+* Midterm: 40%
 * Final: 40%
 * Quiz: 10%
-* Debate: 10%
-* Attendance: 5%
+* Debate: 0%
+* Attendance: 10%
 
 There will be 3 quizes and highest 2 scores will be considered. If you attend all lectures or miss only one lecture then you'll get 5 points for attendance. For every 1-2 lectures missed you'll lose 1 point.
 
-For the debate, each student will pick a side (for or against GMO) and defend his/her position individually with **scientific articles**. Also, a short report of the findings should be handed in to instructor.
+For the debate, each student will pick a side (for or against GMO) and defend his/her position individually with **scientific articles**. Also, a short report of the findings should be handed in to instructor. **Note: due to number of students of class this year, no debate will take place**
 
 # Communication
 
