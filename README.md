@@ -4,7 +4,7 @@
 
 This syllabus was adapted from [Benjamin Schmidt](https://github.com/bmschmidt/syllabus) who adapted his code from [Andrew Goldstone](https://github.com/agoldst/tex). Instead of forking I started new repo since I did too many changes.
 
-## The "interface"
+## The interface
 
 `make syllabus.pdf` makes the PDF using pandoc, xelatex, and biber.
 
