@@ -2,66 +2,62 @@
 
 Below is the tentative schedule for the course. Depending on the speed we go through topics there might be shifts in the schedule. **NOTE :** The midterm date is just a forecast, so **the midterm will take place on the date and time the department announces**.
 
-### February 15. Introduction
+### February 13. Introduction
 
 Introduction to virology and various fields related to virology. Overview of complexity and diversity of viruses, their genomes an proteins. 
 Main differences between enveloped and non-enveloped viruses.
 
-### February 22. Methods Used in Virology & Virus Structure
+### February 20. Methods Used in Virology & Virus Structure
 
 *Chapter 2* and *Chapter 3* in our textbook.
 
 ## Mechanisms
 
-### March 1. Attachment, Entry, Translation and Transport
+### February 27. Attachment, Entry, Translation and Transport
 
 *Chapter 5* and *Chapter 6* in our textbook.
 
-### March 8. Virus Genome Replication & Assembly and Exit
+### March 6. Virus Genome Replication & Assembly and Exit
 
 *Chapter 7* and *Chapter 8* in our textbook.
 
-### March 15. Classification and Nomenclature of Viruses
+### March 13. Classification and Nomenclature of Viruses
 
 *Chapter 10* in our textbook.
 
 ## Individual Virus Families
 
-### March 22. Herpesviruses and Other dsDNA Viruses
+### March 20. Herpesviruses and Other dsDNA Viruses
 
 *Chapter 11* in our textbook.
 
-### March 29. Parvoviruses and Other ssDNA Viruses
+### March 27. Parvoviruses and Other ssDNA Viruses
 
 *Chapter 12* in our textbook.
 
-### (April 5). Midterm 
+### *(April 3). Midterm* 
 
-### April 12. Reoviruses and Other dsRNA Viruses
+### April 10. Reoviruses and Other dsRNA Viruses
 
 *Chapter 13* in our textbook.
 
-### April 19. Picornaviruses and Other Plus-strand RNA Viruses
+### April 17. Picornaviruses and Other Plus-strand RNA Viruses
 
 *Chapter 14* in our textbook.
 
-### April 26. Rhabdoviruses and Other Minus-strand RNA Viruses 
+### April 24. Rhabdoviruses and Other Minus-strand RNA Viruses 
 
 *Chapter 15* in our textbook.
 
-### May 3. Retroviruses & HIV
+### *May 1. No classes*
 
 *Chapter 16* and *Chapter 17* in our textbook.
 
-### May 10. Retroviruses & HIV cont'd 
+### May 8. Retroviruses & HIV 
 
 *Chapter 16* and *Chapter 17* in our textbook.
 
-### May 17. Hepadnaviruses and Other Reverse-transcribing DNA Viruses
+### May 15. Hepadnaviruses and Other Reverse-transcribing DNA Viruses
 
 *Chapter 18* in our textbook
-
-### May 24. Evolution and Emerging of Viruses
-
-*Chapter 20* and *Chapter 21* in our textbook.
 
