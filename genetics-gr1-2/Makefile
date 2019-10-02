@@ -36,8 +36,8 @@ vc:
 # also, in order to ensure ./vc script is run, dependency on phony vc target
 syllabus.pdf: syllabus.tex configuration.tex $(texs) course.bib vc
 	xelatex $<
-	biber $(basename $<)
-	xelatex $<
+	# biber $(basename $<)
+	# xelatex $<
 
 #A set of macros particular to this course: instructor, title, etc.
 #Prevents mucking about in the template files.

@@ -6,8 +6,6 @@ Lecture notes are handed in copy center across our department. PDF versions of l
 
 Lecture notes contain mostly pics with sparse text, thus you need to listen the instructor and take notes.
 
-In addition to lecture notes, we will be using an online service which simulates *Drosophila* crossings in an interactive manner: [Classical Genetics Simulator](http://cgslab.com/)
-
 \pagebreak
 
 # Grading
@@ -16,15 +14,15 @@ Your grade will come from the following sources:
 
 * Midterm: 35%
 * Final: 40%
-* Quiz: 10%
-* Assignment: 10%
-* Attendance: 5%
+* Quiz: 15%
+* Assignment: 0%
+* Attendance: 10%
 
 Final exam is from the topics covered after midterm exam.
 
 There will be 3 quizzes and highest 2 scores will be considered. If you attend all lectures or miss only one lecture then you'll get 5 points for attendance. For every 1-2 lectures missed you'll lose 1 point.
 
-Assignment will be 2-3 page paper about *Control of eye color in humans* **OR** *How antibiotic resistance emerges?*. In addition, you'll be doing small writings summarizing the lecture at the end of the lecture. More details regarding assignments will be provided in near future.
+In previous years, assignments that are 2-3 page long about *Control of eye color in humans* **OR** *How antibiotic resistance emerges?* were given. Another assignment idea that was experimented was small writings summarizing the lecture submitted at the end of the lecture. Due to large class size, this year most likely no assignments will be given. More details regarding assignments will be provided in near future.
 
 ![Please read the syllabus](phd051013small.png)
 
